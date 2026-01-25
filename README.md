@@ -33,7 +33,7 @@
 
 三、如何使用“临时邮箱”？
 
-打开浏览器，输入网址“[mail.soraplus.cc](https://mail.soraplus.cc/)”。
+打开浏览器，输入网址“[mail.qiip.cc](https://mail.qiip.cc/)”。
 
 点击页面上的“生成邮箱”按钮，系统会自动分配一个新的临时邮箱地址给您。
 
